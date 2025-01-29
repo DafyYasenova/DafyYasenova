@@ -13,3 +13,5 @@ dafy_yasenova@abv.bg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DafyYasenova&layout=compact&theme=tokyonight)](https://github.com/DafyYasenova/github-readme-stats)
 
 ![GitHub Pull Requests](https://github-readme-stats.vercel.app/api?username=DafyYasenova&show_icons=true&hide=issues,contribs&count_private=true)
+![GitHub Pull Requests](https://img.shields.io/github/search/DafyYasenova/issues?q=is%3Apr+author%3ADafyYasenova)
+
