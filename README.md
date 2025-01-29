@@ -11,3 +11,5 @@ dafy_yasenova@abv.bg
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DafyYasenova&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DafyYasenova&layout=compact&theme=tokyonight)](https://github.com/DafyYasenova/github-readme-stats)
+
+![GitHub Pull Requests](https://github-readme-stats.vercel.app/api?username=DafyYasenova&show_icons=true&hide=issues,contribs&count_private=true)
