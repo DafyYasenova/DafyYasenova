@@ -13,5 +13,6 @@ dafy_yasenova@abv.bg
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DafyYasenova&layout=compact&theme=tokyonight)](https://github.com/DafyYasenova/github-readme-stats)
 
 ![GitHub Pull Requests](https://github-readme-stats.vercel.app/api?username=DafyYasenova&show_icons=true&hide=issues,contribs&count_private=true)
-![GitHub Pull Requests](https://img.shields.io/badge/dynamic/json?label=Pull%20Requests&query=$.total_count&url=https://api.github.com/search/issues?q=is%3Apr+author%3ADafyYasenova&color=blue)
+![Metrics](https://metrics.lecoq.io/DafyYasenova?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&plugin=prs&plugin.prs=true)
+
 
